@@ -2,7 +2,7 @@ package main
 
 import (
   "fmt"
-  "github.com/snkzt/first-go-unit-test/hello/morestrings"
+  "github.com/snkzt/first-go-unit-test/morestrings"
 )
 
 func main() {
